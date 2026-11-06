@@ -57,5 +57,5 @@ chmod +x framework.sh modules/*.sh
 
 **This toolkit is strictly for educational, defensive, and authorized penetration testing environments.** Do not execute any modules against systems where you do not hold explicit, written authorization. The author accepts absolute zero liability for misuse, damages, or regulatory violations incurred via this code base.
 
-## 📄 License
+##  License
 Distributed under the MIT License. See `LICENSE` for more information.
