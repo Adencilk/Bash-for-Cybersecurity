@@ -23,7 +23,7 @@ An automated, modular Bash suite designed to streamline end-to-end cybersecurity
              [Consolidated Report (.md)]
 ```
 
-## 🛠️ Getting Started
+##  Getting Started
 
 ### Prerequisites
 The core framework requires a Unix-based shell environment (Linux/Unix/macOS) and standard packages (`nmap`, `curl`, `sshd`, `grep`, `awk`). 
